@@ -4,6 +4,6 @@
 Tool Used 
    >dev c++
 library used
-   stdlib.h
-   stdio.h
+   >stdlib.h
+   >stdio.h
     
