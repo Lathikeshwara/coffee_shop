@@ -2,8 +2,8 @@
 ->coffee shop billing system
 
 Tool Used 
-   >dev c++
+   >dev c++,
 library used
-   >stdlib.h
+   >stdlib.h,
    >stdio.h
     
